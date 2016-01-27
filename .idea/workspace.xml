@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="455caec5-f1ae-4b13-a85b-3c6ab6a54741" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backoffs.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demux.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stream_messages.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stream_utils.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/streams.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils.go" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/streaming.go" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twitter.go" afterPath="$PROJECT_DIR$/twitter.go" />
-    </list>
+    <list default="true" id="455caec5-f1ae-4b13-a85b-3c6ab6a54741" name="Default" comment="" />
     <ignored path="anaconda.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -705,16 +692,16 @@
       <updated>1453626297295</updated>
       <workItem from="1453626298554" duration="14000" />
       <workItem from="1453626313105" duration="4703000" />
-      <workItem from="1453711179714" duration="10043000" />
+      <workItem from="1453711179714" duration="10491000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14760000" />
+    <option name="totallyTimeSpent" value="15208000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1010" extended-state="1" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1920" height="1010" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
